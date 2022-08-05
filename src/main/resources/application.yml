@@ -1,0 +1,16 @@
+
+
+spring:
+  application:
+    name: PPforum
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/myapp?serverTimezone=UTC
+#    name: root
+#    password: 123456
+
+server:
+  port: 9090
+
+mybatis-plus:
+  configuration:
